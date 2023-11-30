@@ -27,7 +27,7 @@ _CapacitorLABS_ - This project is experimental. Support is not provided. Please 
 
 The Capacitor Watch plugin allows you to define a UI for a watch in your web code and show it on a paired watch.
 
-This currently only supports iOS. This guide assumes you've already added iOS to your capcacitor project.
+This currently only supports iOS. This guide assumes you've already added iOS to your capacitor project.
 
 Also note - all of this will only work with an actual Apple Watch. Simulators don't allow the app<->watch communcation like real devices do.
 
@@ -132,7 +132,7 @@ Add the 'Background Modes' capability to the watch app target, and enable 'Remot
 
 <img src="https://raw.githubusercontent.com/ionic-team/CapacitorWatch/main/img/watch-remote-not.png" />
 
-You should be ready to develop for Capcacitor Watch now!
+You should be ready to develop for Capacitor Watch now!
 
 ## Development workflow
 
